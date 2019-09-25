@@ -9,6 +9,7 @@ package cardgame;
  *
  * @author dsi1100
  //date 24 september 2019
+ ICE 1 activity
  */
 public class CardGame
 {
